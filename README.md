@@ -1,2 +1,5 @@
 # hello-world
-Starting a new repository here
+
+# Dear world,
+# Just to say hi. This is Wayne from Hong Kong.
+# Exploring around.
